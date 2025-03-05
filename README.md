@@ -30,40 +30,9 @@ Hello, I’m **Junior Williams**—a seasoned Security Architect at Mobia and an
 
 ---
 
-## Featured Projects
-
-### [Secure AI Framework](#)
-An open-source framework that seamlessly integrates AI with state-of-the-art security protocols.  
-*Tech Stack:* Python, TensorFlow, Kubernetes  
-*Status:* Active Development
-
-### [Threat Analysis Toolkit](#)
-A comprehensive suite of tools for real-time threat detection, vulnerability assessment, and incident response.  
-*Tech Stack:* Python, OpenSSL, Custom Security Modules  
-*Status:* Under Continuous Improvement
-
-### [Ethical AI Guidelines](#)
-A repository dedicated to best practices and standards in developing ethical and responsible AI systems.  
-*Tech Stack:* Markdown, Jupyter Notebooks  
-*Status:* Published & Community-Driven
-
----
-
-## Publications & Contributions
-
-I regularly contribute thought leadership through:
-- **Blog Posts:** Deep dives into cybersecurity trends and AI ethics  
-- **Research Papers:** Peer-reviewed studies on secure system architectures and ethical AI  
-- **Conference Talks:** Presentations on advanced threat analysis and responsible innovation
-
-[Explore my publications and insights](#)
-
----
-
 ## Get Involved
 
 I’m always looking to collaborate with like-minded professionals who are passionate about shaping a secure and innovative future.  
-- **Fork, contribute, or open an issue:** Your feedback and pull requests are welcome!  
 - **Discussion:** Have questions or ideas? Let’s start a dialogue and challenge the status quo.
 
 ---
@@ -72,8 +41,6 @@ I’m always looking to collaborate with like-minded professionals who are passi
 
 - **Website:** [trustcyber.ca](https://trustcyber.ca)
 - **LinkedIn:** [Junior Williams](https://ca.linkedin.com/in/juniorw)
-- **Twitter:** [@YourTwitterHandle](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
