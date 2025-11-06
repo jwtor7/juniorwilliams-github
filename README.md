@@ -30,6 +30,19 @@ Hello, I’m **Junior Williams**—a seasoned Security Architect at Mobia and an
 
 ---
 
+## Publications & Resources
+
+- **Defining Williams' Law: The Power of Algorithmic Innovation**
+  Williams, J. (2025). DOI: [10.5281/zenodo.14946951](https://doi.org/10.5281/zenodo.14946951)
+
+- **Think Smarter, Not Harder: Algorithmic Innovation as the Key to Exponential AI Performance**
+  Williams, J. (2025). DOI: [10.5281/zenodo.14957577](https://doi.org/10.5281/zenodo.14957577)
+
+- **AI-Cybersecurity Update Newsletter**
+  [trustcyber.notion.site/aicsu](https://trustcyber.notion.site/aicsu)
+
+---
+
 ## Get Involved
 
 I’m always looking to collaborate with like-minded professionals who are passionate about shaping a secure and innovative future.  
