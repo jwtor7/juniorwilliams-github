@@ -1,64 +1,33 @@
-# Welcome to Junior Williams' GitHub Hub
+# Junior Williams
 
-Hello, I’m **Junior Williams**—a seasoned Security Architect at Mobia and an Independent AI Researcher. I specialize in merging cutting-edge cybersecurity strategies with ethical, responsible AI innovations. Here, you’ll find projects and resources that exemplify my commitment to secure, innovative technology.
+I’m a strategic technology advisor working across cybersecurity risk, AI governance, and enterprise architecture. I help leadership teams make consequential technology decisions before execution becomes expensive to unwind.
 
----
+## TrustCyber
 
-## About Me
+My advisory work, field guides, and evidence-led insights are published at [TrustCyber.ca](https://trustcyber.ca/).
 
-- **Current Role:** Security Architect at Mobia
-- **Expertise:** Cybersecurity, Artificial Intelligence, Ethical AI Applications
-- **Philosophy:** In a world of evolving digital threats, I combine rigorous risk management with creative problem-solving. I approach every challenge like a high-stakes board meeting—with strategic precision and a dash of humor (because if it ain’t broke, we’re still finding ways to make it bulletproof).
-- **Interests:** 
-  - Advanced threat analysis and vulnerability assessment  
-  - Integrating AI systems with robust security protocols  
-  - Open-source collaboration and continuous learning
+- [Enterprise architecture advisory](https://trustcyber.ca/advisory/enterprise-architecture/)
+- [Cybersecurity risk advisory](https://trustcyber.ca/advisory/cybersecurity-risk/)
+- [AI governance advisory](https://trustcyber.ca/advisory/ai-governance/)
+- [AI governance insights](https://trustcyber.ca/insights/ai-governance/)
+- [Cybersecurity risk insights](https://trustcyber.ca/insights/cybersecurity-risk/)
+- [Enterprise architecture insights](https://trustcyber.ca/insights/enterprise-architecture/)
 
----
+## Research
 
-## Core Competencies
+- **Defining Williams' Law: The Power of Algorithmic Innovation**  
+  Williams, J. (2025). [DOI: 10.5281/zenodo.14946951](https://doi.org/10.5281/zenodo.14946951)
 
-- **Cybersecurity:**  
-  - Secure system architecture and implementation  
-  - Threat modeling and incident response  
-  - Digital forensics and risk mitigation
+- **Think Smarter, Not Harder: Algorithmic Innovation as the Key to Exponential AI Performance**  
+  Williams, J. (2025). [DOI: 10.5281/zenodo.14957577](https://doi.org/10.5281/zenodo.14957577)
 
-- **Artificial Intelligence:**  
-  - Machine Learning and Deep Learning applications  
-  - Research and development in ethical AI  
-  - Innovative projects that blend AI with robust security frameworks
+- **AI-Cybersecurity Update**  
+  [Newsletter and essays](https://trustcyber.substack.com/)
 
----
+## Elsewhere
 
-## Publications & Resources
+- [About Junior Williams](https://trustcyber.ca/about/)
+- [LinkedIn](https://www.linkedin.com/in/juniorw/)
+- [ORCID](https://orcid.org/0009-0006-4048-7927)
 
-- **Defining Williams' Law: The Power of Algorithmic Innovation**
-  Williams, J. (2025). DOI: [10.5281/zenodo.14946951](https://doi.org/10.5281/zenodo.14946951)
-
-- **Think Smarter, Not Harder: Algorithmic Innovation as the Key to Exponential AI Performance**
-  Williams, J. (2025). DOI: [10.5281/zenodo.14957577](https://doi.org/10.5281/zenodo.14957577)
-
-- **AI-Cybersecurity Update Newsletter**
-  [trustcyber.notion.site/aicsu](https://trustcyber.notion.site/aicsu)
-
----
-
-## Get Involved
-
-I’m always looking to collaborate with like-minded professionals who are passionate about shaping a secure and innovative future.  
-- **Discussion:** Have questions or ideas? Let’s start a dialogue and challenge the status quo.
-
----
-
-## Connect with Me
-
-- **Website:** [trustcyber.ca](https://trustcyber.ca)
-- **LinkedIn:** [Junior Williams](https://ca.linkedin.com/in/juniorw)
-
----
-
-*Disclaimer: The projects and ideas showcased here are for educational and research purposes. Always verify in controlled environments before implementing in production.*
-
----
-
-Let’s build a safer, smarter future—one commit at a time.
+The projects and ideas shared here are educational and research-oriented. Validate them in an appropriate environment before production use.
