@@ -9,9 +9,7 @@ My advisory work, field guides, and evidence-led insights are published at [Trus
 - [Enterprise architecture advisory](https://trustcyber.ca/advisory/enterprise-architecture/)
 - [Cybersecurity risk advisory](https://trustcyber.ca/advisory/cybersecurity-risk/)
 - [AI governance advisory](https://trustcyber.ca/advisory/ai-governance/)
-- [AI governance insights](https://trustcyber.ca/insights/ai-governance/)
-- [Cybersecurity risk insights](https://trustcyber.ca/insights/cybersecurity-risk/)
-- [Enterprise architecture insights](https://trustcyber.ca/insights/enterprise-architecture/)
+- [Field guides and insights](https://trustcyber.ca/insights/)
 
 ## Research
 
