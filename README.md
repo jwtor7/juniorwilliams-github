@@ -1,6 +1,8 @@
 # Junior Williams
 
-I’m a strategic technology advisor working across cybersecurity risk, AI governance, and enterprise architecture. I help leadership teams make consequential technology decisions before execution becomes expensive to unwind.
+I advise executives on consequential technology decisions across enterprise architecture, cyber risk, and AI governance.
+
+My work connects business strategy to target architectures, operating models, investment priorities, decision rights, and practical guardrails for delivery.
 
 ## TrustCyber
 
@@ -15,10 +17,8 @@ My advisory work, field guides, and evidence-led insights are published at [Trus
 
 - **Defining Williams' Law: The Power of Algorithmic Innovation**  
   Williams, J. (2025). [DOI: 10.5281/zenodo.14946951](https://doi.org/10.5281/zenodo.14946951)
-
 - **Think Smarter, Not Harder: Algorithmic Innovation as the Key to Exponential AI Performance**  
   Williams, J. (2025). [DOI: 10.5281/zenodo.14957577](https://doi.org/10.5281/zenodo.14957577)
-
 - **AI-Cybersecurity Update**  
   [Newsletter and essays](https://trustcyber.substack.com/)
 
